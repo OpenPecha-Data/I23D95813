@@ -1,0 +1,18 @@
+id: I23D95813
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:28:20.682094
+last_modified: 2023-01-04 11:28:20.682111
+source_metadata:
+  collections:
+  - Alak Zenkar Rinpoche
+  - Works of Tibetan Masters
+bases:
+  36E1:
+    title: Brief Biography of Kharlek Tulku Pema Kunzang Rangdrol
+    base_file: 36E1.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
